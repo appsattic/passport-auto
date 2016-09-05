@@ -1,0 +1,20 @@
+{
+  "name": "passport-auto",
+  "description": "Use PassportJS easily and without repetition for the most common strategies.",
+  "version": "0.5.0",
+  "homepage": "https://appsattic.com/project/passport-auto/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/appsattic/passport-auto.git"
+  },
+  "bugs": {
+    "email": "chilts@appsattic.com",
+    "url": "https://github.com/appsattic/passport-auto/issues"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "andychilton@gmail.com",
+    "url": "https://chilts.org/"
+  },
+  "license": "ISC"
+}
