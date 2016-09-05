@@ -219,14 +219,9 @@ Just call `done(null, user)` with whatever user you wish to place into the expre
 
 ## Project Pages ##
 
-There are two articles you can read about passport-auto. The first is a guide to using passport-auto in different ways
-and the second is a more in-depth explanation of how it works behind the scenes.
+Please see the project pages for more information, in-depth tutorials and a comparison with using PassportJS directly:
 
 * https://appsattic.com/project/passport-auto/
-* Coming soon ... https://appsattic.com/project/passport-auto/guide
-* Coming soon ... https://appsattic.com/project/passport-auto/in-depth
-* Coming soon ... https://appsattic.com/project/passport-auto/example-using-mongodb
-* Coming soon ... https://appsattic.com/project/passport-auto/example-using-mongodb
 
 ## Author ##
 
@@ -241,5 +236,9 @@ For AppsAttic:
 * [web - AppsAttic - Website](https://appsattic.com/)
 * [twitter - AppsAtticLtd - Twitter](https://twitter.com/AppsAtticLtd)
 * [github - appsattic](https://github.com/chilts/)
+
+## License ##
+
+ISC - https://opensource.org/licenses/ISC/
 
 (Ends)
